@@ -5,3 +5,5 @@ Learning from positive and unlabelled data (PU learning) has attracted increasin
 It is known that in positive unlabelled setting, a classifier can be successfully learned if the class prior is available. In this project we consider a novel method of class prior estimation which is based on logistic regression. The proposed approach involves simultaneous estimation of label frequency and model parameters. In order to account for the non-concavity of the likelihood function,  we proposed a novel optimization procedure, called CD+MM, which is a combination of  cyclic coordinate descent and  Minorization-Maximization algorithms.
 
 See test.R file to learn how to use the proposed method.
+
+This is a joint project with Małgorzata Łazęcka (Polish Academy of Sciences) and Jan Mielniczuk (Polish Academy of Sciences)
